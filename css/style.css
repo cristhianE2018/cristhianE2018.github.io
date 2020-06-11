@@ -1,3 +1,9 @@
+body{
+    background-color: aliceblue;
+}
 #titulo{
     color: slateblue;
+}
+.resenia{
+    text-align: justify;
 }
