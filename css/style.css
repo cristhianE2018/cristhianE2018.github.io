@@ -1,5 +1,5 @@
 body{
-    background-color: #F1F1F1;
+    background-color: white;
 }
 #cabecera{
    height: 66px;
@@ -9,11 +9,16 @@ body{
 }
 .resenia{
     text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #1B1E3B;
+}
+#navbar2{
+    border-style: none;
 }
 #navbar{
     background-color: transparent;
     color: #1B1E3B;
-    
+    border-style: hidden;
 }
 #navbar .enlaces{
     color: #1B1E3B;
@@ -23,7 +28,7 @@ body{
 }
 .animado{
     opacity: 0;
-    transition: all 0.5s;
+    transition: all 0.3s;
 }
 .mostrarArriba{
     animation: mostrarArriba 2s;
