@@ -12,17 +12,15 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #1B1E3B;
 }
-#navbar2{
-    border-style: none;
+.textos{
+    justify-content: center;
 }
 #navbar{
-    background-color: transparent;
-    color: #1B1E3B;
+    background-color: #3B363A;
+    color: palevioletred;
     border-style: hidden;
 }
-#navbar .enlaces{
-    color: #1B1E3B;
-}
+
 #footer{
     background-color: #1E1E1E;
 }
